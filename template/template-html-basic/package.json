@@ -1,0 +1,11 @@
+{
+  "name": "monrepo-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+  "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
