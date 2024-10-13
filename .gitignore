@@ -40,3 +40,4 @@ yarn-error.log*
 *.pem
 template/tauri-ts/node_modules
 template/template-workspaces-turbo/node_modules
+template/template-jest-typescript/node_modules
