@@ -1,9 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # Dependencies
-./template/**/node_modules
-./template/**/.turbo
-./template/**/dist
+template/**/node_modules
+template/**/.turbo
+template/**/dist
 .pnp
 .pnp.js
 
