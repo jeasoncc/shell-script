@@ -1,0 +1,9 @@
+就目前的情况来看，如果要想使JEST在Typescript的语法当中运行起来，至少需要这么几个包
+
+-
+- ts-jest
+
+| @types/jest | jest的类型声明文件                                        |
+| ts-jest     | 直接可以解析typescript的jest编译器(解决了bable麻烦的配置) |
+| ts-node     | 提供node编译环境，在jest配置文件里面配置                  |
+| typescript  |                                                           |
